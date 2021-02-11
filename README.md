@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/aninja/Sneh_Lab/_apis/build/status/bsnehanshu.pipelines-java?branchName=master)](https://dev.azure.com/aninja/Sneh_Lab/_build/latest?definitionId=7&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
